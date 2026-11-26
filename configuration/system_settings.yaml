@@ -1,0 +1,3 @@
+system_settings:
+  use_treatment_expert: false
+  augment_drug_RAG_queries: true

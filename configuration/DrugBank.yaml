@@ -1,0 +1,11 @@
+DrugBank_tool_columns:
+  - name
+  - type
+  - description
+  - mechanism-of-action
+  - indication
+Property:
+  - drugbank_id
+  - pharmacodynamics
+  - mechanism-of-action
+  - indication

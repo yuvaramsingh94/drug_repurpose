@@ -1,0 +1,5 @@
+RAG_MODEL: "michiyasunaga/BioLinkBERT-large" #"microsoft/BiomedNLP-BiomedBERT-base-uncased-abstract-fulltext"
+MoA_collection: "mechanism-of-action"
+PD_collection: "pharmacodynamics"
+cause_collection: "causes"
+gene_function_collection: "gene_function"

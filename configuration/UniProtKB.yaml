@@ -1,0 +1,27 @@
+# UniProtKB database important columns
+UniProtKB_columns:
+  - "Entry Name"
+  - "Protein names"
+  - "Gene Names"
+  - "Pathway"
+  - "Function [CC]"
+  - "Interacts with"
+  - "Tissue specificity"
+  - "Gene Ontology IDs"
+  - "Gene Ontology (biological process)"
+  - "Gene Ontology (cellular component)"
+  - "Gene Ontology (GO)"
+  - "Involvement in disease"
+  - "Subcellular location [CC]"
+  - "Protein families"
+
+UniProtKB_tool_columns:
+  - Protein names
+  - Pathway
+  - Function [CC]
+  - Tissue specificity
+  - Gene Ontology (biological process)
+  - Gene Ontology (cellular component)
+  - Gene Ontology (GO)
+  - Involvement in disease
+  - Protein families

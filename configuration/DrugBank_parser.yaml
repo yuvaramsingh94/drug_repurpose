@@ -1,0 +1,10 @@
+namespace:
+  db: http://www.drugbank.ca
+
+
+XML_FILE_PATH: "dataset/DrugBank/Date_02_01_25/full_database.xml"
+PATHWAY_CLASSIFICATION_PATH: "dataset/DrugBank/Date_02_01_25/pathway_classification.csv"
+PATHWAY_RELATION_PATH: "dataset/DrugBank/Date_02_01_25/pathway_drug_relation.csv"
+DRUG_PATH: "dataset/DrugBank/Date_02_01_25/drug_new.csv"
+TARGET_INFO_PATH: "dataset/DrugBank/Date_02_01_25/drug_target.csv"
+

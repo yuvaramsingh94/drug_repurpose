@@ -1,0 +1,15 @@
+DRUG_PATH: "dataset/DrugBank/Date_02_01_25/drug.csv"
+DISEASE_PATH: "dataset/medlineplus/medlineplus_genetics_conditions_with_gene_function.csv"
+MODEL_WT: "weights"
+MODEL_DATABASE: "database/database_4"
+collection_name_drug:
+  - "mechanism-of-action"
+  - "pharmacodynamics"
+  - "indication"
+collection_name_disease:
+  - "causes"
+  - "inheritance"
+  - "gene_function"
+MODEL_NAME: "weights/v4"
+chunk_size: 500
+chunk_overlap: 100

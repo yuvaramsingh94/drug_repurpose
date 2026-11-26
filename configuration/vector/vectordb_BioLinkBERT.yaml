@@ -1,0 +1,15 @@
+DRUG_PATH: "dataset/DrugBank/Date_02_01_25/drug.csv"
+DISEASE_PATH: "dataset/medlineplus/medlineplus_genetics_conditions_with_gene_function.csv"
+MODEL_WT: "weights"
+MODEL_DATABASE: "database/database_BioLinkBERT"
+collection_name_drug:
+  - "mechanism-of-action"
+  - "pharmacodynamics"
+  - "indication"
+collection_name_disease:
+  - "causes"
+  - "inheritance"
+  - "gene_function"
+MODEL_NAME: "michiyasunaga/BioLinkBERT-large"
+chunk_size: 384
+chunk_overlap: 128

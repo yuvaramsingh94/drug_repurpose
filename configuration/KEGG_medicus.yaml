@@ -1,0 +1,19 @@
+# KEGG Medicus database important columns
+KEGG_Medicus_columns:
+  - "ENTRY"
+  - "Name"
+  - "DESCRIPTION"
+  - "Category" 
+  - "GENE" 
+  - "DRUG" 
+  - "PATHOGEN" 
+  - "DBLINKS" ## 
+  - "SUBGROUP" ## Subgroup group of the disease
+  - "SUPERGRP" ## Super group of the disease
+
+## Other things
+## Only few disease have this information. The tool can check if this is present and then appended to the string
+## These are from KEGG drug database eg https://www.genome.jp/entry/D06503
+## See if 'NETWORK' column has any useful information
+## See if 'CARCENOGEN' column has any useful information
+## See if "DBLINKS": This has IDs to other databases
